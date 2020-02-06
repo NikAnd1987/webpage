@@ -4,9 +4,9 @@ layout: main
 ---
 
 ## Ciencia y tecnología de alimentos
-![alt text](/assets/hero.jpg "heroImage")
+![alt text]({{ 'assets/hero.jpg' | absolute_url }} "splash")
 
-Nikolaos Androutsopoulos, graduado en ciencias y tecnologías de alimentos en la universidad agrónoma de Atenas. Ofresco mis servicios como: 
+Ioannis Androutsopoulos, graduado en ciencias y tecnologías de alimentos en la universidad agrónoma de Atenas. Ofresco mis servicios como: 
 * Dietologo.
 * Asesoría para empresas que se dediquen a producir y vender alimentos.
 * Consejos de alimentación en general.
